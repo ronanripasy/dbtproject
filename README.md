@@ -1,6 +1,11 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### Projeto criado para estudos em DBT
+
+- Primeiros passos com o framework
+- Integraçao do DBT Cloud com Redshift Serverless
+- Criação de modelos
+- Deploy em PRD
 
 Try running the following commands:
 - dbt run
