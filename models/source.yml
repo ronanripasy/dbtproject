@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: sources
-    databases: northwind
+    database: northwind
     schema: public
     tables:
       - name: categories
@@ -12,3 +12,4 @@ sources:
       - name: customers
       - name: orders
       - name: shippers
+      - name: employees
