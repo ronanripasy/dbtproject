@@ -1,5 +1,3 @@
-Welcome to your new dbt project!
-
 ### Projeto criado para estudos em DBT
 
 - Primeiros passos com o framework
